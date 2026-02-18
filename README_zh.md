@@ -1,14 +1,14 @@
 [![English](https://img.shields.io/badge/English-Click%20to%20View-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-当前-brightgreen)](README_zh.md)
 
-# Awesome Seedance 2 媒体仓库
+# Awesome Seedance 2.0 视频提示词合集
 
-这个仓库用于存放 Release 视频资源，并基于 `prompts.json` 自动生成索引。
+这是一个精选的 Seedance 2.0 社区视频提示词项目，提供可复用的视频资产与结构化提示词数据。
 
 ## 快速统计
 
 - `prompts.json` 总条目：**110**
 - README 展示条目：**100**
-- 最近生成时间（UTC）：**2026-02-18T21:43:33.877Z**
+- 最近生成时间（UTC）：**2026-02-18T21:55:28.213Z**
 
 ## 全量数据
 
@@ -118,7 +118,3 @@
 | 98 | Naruto coding intensely and throwing a laptop | english, anime | [DΞV](https://x.com/junwatu) | [X](https://x.com/junwatu/status/2021474578460180663) | [MP4](https://github.com/bakuto69/awesome-seedance-2-prompts/releases/download/videos/156.mp4) | Naruto coding intensely on a laptop in the Hokage’s office, growing more and more frustrated, the... |
 | 99 | Indian Tollywood Action Blockbuster Scene | chinese, action, cinematic | [John](https://x.com/johnAGI168) | [X](https://x.com/johnAGI168/status/2021472044295070168) | [MP4](https://github.com/bakuto69/awesome-seedance-2-prompts/releases/download/videos/195.mp4) | 【Style】 Indian Telugu action blockbuster (Tollywood Action Blockbuster), extremely exaggerated ph... |
 | 100 | Magical Transformation Scene | english, fantasy, cinematic | [CoffeeVectors](https://x.com/CoffeeVectors) | [X](https://x.com/CoffeeVectors/status/2021463701421699374) | [MP4](https://github.com/bakuto69/awesome-seedance-2-prompts/releases/download/videos/179.mp4) | The woman kneels down slowly onto the wooden bridge. Camera zooms in tightly to an extreme close-... |
-
----
-
-本 README 由 `scripts/generate-media-readme.mjs` 自动生成。
